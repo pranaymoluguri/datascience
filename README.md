@@ -1,2 +1,2 @@
-# datascience
-Assignments
+# DataScience
+Projects and Experiments
